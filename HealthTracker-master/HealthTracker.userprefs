@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{CA23C929-6172-41B9-8D23-16911777E519}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="HealthTracker/MainActivity.cs" Line="56" Column="72" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HealthTracker AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus52" AndroidDeviceId-Debug="emulator-5554" MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
